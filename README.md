@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>layout02</title>
+  <title>WEBSTORYBOY강의</title>
 </head>
 <body>
   <h1>웹 표준 사이트 만들기(2019)</h1>
